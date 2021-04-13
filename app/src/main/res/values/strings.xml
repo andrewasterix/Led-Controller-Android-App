@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Led Controller</string>
+    <string name="brightness_up">UP</string>
+    <string name="brightness_down">DOWN</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="red">R</string>
+    <string name="green">G</string>
+    <string name="blue">B</string>
+    <string name="white">W</string>
+    <string name="flash">FLASH</string>
+    <string name="strobe">STROBE</string>
+    <string name="fade">FADE</string>
+    <string name="smooth">SMOOTH</string>
+</resources>
